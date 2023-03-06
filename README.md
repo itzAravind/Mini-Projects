@@ -10,6 +10,8 @@ Below is a list of the projects included in this repository:
 
 Project 1: Coffee Machine Model
 
+Project 2: Black Jack Game Model
+
 
 **Usage**
 
